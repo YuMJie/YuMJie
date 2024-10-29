@@ -1,3 +1,6 @@
-[![YuMJie's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuMJie&count_private=true&include_all_commits=true)](https://github.com/YuMJie/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuMJie&layout=compact)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=YuMJie" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=YuMJie&layout=compact&card_width=320" />
+</a>
